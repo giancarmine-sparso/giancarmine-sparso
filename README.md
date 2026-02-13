@@ -25,8 +25,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 
 <img align="left" alt="LaTeX" width="30px" style="padding-right:12px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+
+<img align="left" alt="Zotero" width="32px" style="padding-right:12px;"
+src="./img/zotero_1024x1024x32.png" />
 
 <br />
 <br />
+
+#
 
