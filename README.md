@@ -22,7 +22,7 @@ For the moment my work focuses on computational physics and detector design, com
 <br />
 
 
-## 🔬 Latest Project
+## 🔬 Featured Project
 
 ### ⚛ Nuclear Energy Outreach Conference
 
@@ -37,3 +37,13 @@ The project involved:
 📂 Repository:  
 
 [![Vedi Progetto](https://img.shields.io/badge/See_project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/giancarmine-sparso/nuclear-energy-outreach)
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://stats.pphat.top/stats?username=giancarmine-sparso" width="80%">
+</p>
+
+<p align="center">
+  <em>Overview of repository activity and contribution metrics.</em>
+</p>
