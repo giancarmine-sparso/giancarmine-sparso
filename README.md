@@ -41,7 +41,7 @@ The project involved:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://stats.pphat.top/stats?username=giancarmine-sparso" width="80%">
+  <img src="https://stats.pphat.top/stats?username=giancarmine-sparso" width="90%">
 </p>
 
 <p align="center">
