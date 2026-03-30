@@ -24,20 +24,19 @@ For the moment my work focuses on computational physics and detector design, com
 
 ## 🔬 Featured Project
 
-### ⚛ Nuclear Energy Outreach Conference
+### ⚙️ Mech Lab Tools
 
-Design and organization of a scientific outreach conference focused on nuclear energy, reactor physics, and technological innovation.
+Development of a Python toolkit for introductory mechanics laboratory data analysis, designed to support experimental workflows with reusable, well-documented utilities.
 
-The project involved:
-- Scientific content research and verification  
-- Development of educational material  
-- Structured presentation of nuclear physics concepts  
-- Public engagement on energy policy and technology  
+The project includes:
+- Data loading and organization for laboratory measurements  
+- Descriptive statistics and uncertainty-related utilities  
+- Scientific plotting for histograms, distributions, and experimental data  
+- Modular functions built to simplify repetitive analysis tasks  
 
 📂 Repository:  
 
-[![Vedi Progetto](https://img.shields.io/badge/See_project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/giancarmine-sparso/nuclear-energy-outreach)
-
+[![See Project](https://img.shields.io/badge/See_project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/giancarmine-sparso/mech-lab-tools)
 ## 📊 GitHub Analytics
 
 <p align="center">
