@@ -24,7 +24,7 @@ For the moment my work focuses on computational physics and detector design, com
 
 ## 🔬 Featured Project
 
-### ⚙️ Mech Lab Tools
+### ⚙️ Mespy
 
 Development of a Python toolkit for introductory mechanics laboratory data analysis, designed to support experimental workflows with reusable, well-documented utilities.
 
@@ -36,7 +36,7 @@ The project includes:
 
 📂 Repository:  
 
-[![See Project](https://img.shields.io/badge/See_project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/giancarmine-sparso/mech-lab-tools)
+[![See Project](https://img.shields.io/badge/See_project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/giancarmine-sparso/mespy)
 ## 📊 GitHub Analytics
 
 <p align="center">
