@@ -2,12 +2,9 @@
 
 **`Physics student`**
 
-I’m a physics student building scientific systems from first principles.
-Every project is developed from the ground up from theoretical modeling and mathematical formulation to implementation in code and hardware.
-For the moment my work focuses on computational physics and detector design, combining rigorous foundations with practical execution.
+Physics student at Sapienza University of Rome building scientific software and detector-oriented projects. Interested in computational physics, data analysis, and measurement workflows.
 
 --- 
-
 ### 🧰 Languages and Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -40,7 +37,8 @@ The project includes:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://stats.pphat.top/stats?username=giancarmine-sparso" width="90%">
+  <img width="55%" align="top" src="https://github-readme-stats-nine-rho-66.vercel.app/api?username=giancarmine-sparso&show_icons=true&theme=one_dark_pro" />
+  <img width="41.8%" align="top" src="https://github-readme-stats-nine-rho-66.vercel.app/api/top-langs/?username=giancarmine-sparso&layout=compact&theme=one_dark_pro" />
 </p>
 
 <p align="center">
