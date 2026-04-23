@@ -21,7 +21,7 @@ Physics student at Sapienza University of Rome building scientific software and 
 
 ## 🔬 Featured Project
 
-### ⚙️ Mespy
+### ⚙️ MesPy
 
 Development of a Python toolkit for introductory mechanics laboratory data analysis, designed to support experimental workflows with reusable, well-documented utilities.
 
