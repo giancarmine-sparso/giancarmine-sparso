@@ -34,13 +34,16 @@ The project includes:
 📂 Repository:  
 
 [![See Project](https://img.shields.io/badge/See_project-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/giancarmine-sparso/mespy)
-## 📊 GitHub Analytics
+## 📊 Repository Languages
+
 
 <p align="center">
+  <!--
   <img width="55%" align="top" src="https://github-readme-stats-nine-rho-66.vercel.app/api?username=giancarmine-sparso&show_icons=true&theme=one_dark_pro" />
-  <img width="41.8%" align="top" src="https://github-readme-stats-nine-rho-66.vercel.app/api/top-langs/?username=giancarmine-sparso&layout=compact&theme=one_dark_pro&cache_seconds=21600&exclude_repo=Appunti-Algebra-Lineare" />
+  -->
+  <img width="48%" align="top" src="https://github-readme-stats-nine-rho-66.vercel.app/api/top-langs/?username=giancarmine-sparso&layout=compact&theme=one_dark_pro&cache_seconds=21600&exclude_repo=Appunti-Algebra-Lineare,Appunti_di_meccanica" />
 </p>
 
 <p align="center">
-  <em>Overview of repository activity and contribution metrics.</em>
+  <em>Language distribution across public repositories.</em>
 </p>
