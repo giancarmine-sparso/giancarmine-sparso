@@ -41,7 +41,7 @@ The project includes:
   <!--
   <img width="55%" align="top" src="https://github-readme-stats-nine-rho-66.vercel.app/api?username=giancarmine-sparso&show_icons=true&theme=one_dark_pro" />
   -->
-  <img width="48%" align="top" src="https://github-readme-stats-nine-rho-66.vercel.app/api/top-langs/?username=giancarmine-sparso&layout=compact&theme=one_dark_pro&cache_seconds=21600&exclude_repo=Appunti-Algebra-Lineare,Appunti_di_meccanica" />
+  <img width="48%" align="top" src="https://github-readme-stats-nine-rho-66.vercel.app/api/top-langs/?username=giancarmine-sparso&layout=compact&theme=one_dark_pro&cache_seconds=21600&exclude_repo=Appunti-Algebra-Lineare,Appunti_di_meccanica,dotfiles" />
 </p>
 
 <p align="center">
